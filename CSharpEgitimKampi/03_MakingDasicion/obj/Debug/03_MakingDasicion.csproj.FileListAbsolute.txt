@@ -1,0 +1,7 @@
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\bin\Debug\03_MakingDasicion.exe.config
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\bin\Debug\03_MakingDasicion.exe
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\bin\Debug\03_MakingDasicion.pdb
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\obj\Debug\03_MakingDasicion.csproj.AssemblyReference.cache
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\obj\Debug\03_MakingDasicion.csproj.CoreCompileInputs.cache
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\obj\Debug\03_MakingDasicion.exe
+C:\Users\EXCALİBUR\Source\Repos\CSharpEgitimKampi\03_MakingDasicion\obj\Debug\03_MakingDasicion.pdb
