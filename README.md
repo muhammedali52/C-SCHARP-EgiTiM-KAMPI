@@ -1,4 +1,4 @@
-# 🚀 C# EĞİTİM KAMPI PROJELERİ
+ 🚀 C# EĞİTİM KAMPI PROJELERİ 🚀
 
 
 
@@ -15,7 +15,7 @@ If-Else ve Switch-Case karar yapılarının kullanımını gösteren örnekler i
 
 🚀 Proje 4: Karar Yapıları (If-Else)
 For ve While döngülerinin kullanımını gösteren örnekler bulunmaktadır. Bir bakteri çoğalması örneğinde, bakterinin her saat sonunda nasıl ikiye bölündüğü ve 24 saat sonra kaç bakteri olacağı hesaplanır.
-Ayrıca, bir sayının birler, onlar ve yüzler basamağını hesaplamak için döngüler kullanılır. ⚖📌
+Ayrıca, bir sayının birler, onlar ve yüzler basamağını hesaplamak için döngüler kullanılır. 📌
 
 🚀 Proje 5: Döngüler (Loops)
 Bu projede, C# dilindeki for döngüleri ile yıldız (*) karakterlerinden geometrik şekiller oluşturulur. Yıldız dizilimlerinden basit şekillere, dik ve ters üçgenler ile piramit ve
